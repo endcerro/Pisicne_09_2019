@@ -1,0 +1,5 @@
+Credentials cache: API:CC7B55FB-EE52-48E7-A798-AE7996B72D72
+        Principal: edal--ce@42.FR
+
+  Issued                Expires               Principal
+Aug 26 10:41:18 2019  Sep  2 10:41:01 2019  krbtgt/42.FR@42.FR
